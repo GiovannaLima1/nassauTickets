@@ -15,8 +15,8 @@ Sistema de Controle de Atendimento para um Laboratório de Análises Clínicas, 
 
 ## Tecnologias Utilizadas
 - **Frontend:** React
-- **Banco de Dados:** MySQL 8.0[cite: 14]
-- **Backend:** Node.js com Express (ou tecnologia escolhida pelo grupo)[cite: 14]
+- **Banco de Dados:** MySQL 8.0
+- **Backend:** Node.js com Express 
 
 ## Branches
 - `main`: Versão estável do sistema integrada para avaliação.
