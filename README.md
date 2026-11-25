@@ -53,16 +53,20 @@ nassauTickets/
 ## Instalação e Execução
 
 1. Clone o repositório:
-   ```bash
+
+```bash
 git clone https://github.com/GiovannaLima1/nassauTickets.git
 cd nassauTickets
 ```
+
 2. Acesse a pasta do frontend, instale as dependências e inicie o servidor:
-  ```bash
+
+```bash
 cd frontend
 npm install
 npm run dev
 ```
+
 3. Acesse `http://localhost:5173` no navegador e abra as rotas:
    - `/` — Tela inicial de navegação
    - `/totem` — Totem de autoatendimento (emissão de senhas)
