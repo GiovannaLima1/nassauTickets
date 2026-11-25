@@ -35,6 +35,7 @@ A fila segue a alternância `[SP] → [SE | SG] → [SP] → [SE | SG]`, respeit
 
 ## Estrutura do Repositório
 
+```text
 nassauTickets/
 ├── backend/
 ├── docs/
@@ -48,7 +49,6 @@ nassauTickets/
 ├── .gitignore
 ├── LICENSE
 └── README.md
-
 ## Instalação e Execução
 
 1. Clone o repositório:
